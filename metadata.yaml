@@ -12,6 +12,8 @@ creator:
     gutenberg_agent_id: '6375'
     url: http://www.gutenberg.org/2009/agents/6375
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/15921#The-Haskalah-Movement-in-Russia
 gutenberg_bookshelf: Judaism
 gutenberg_issued: '2005-05-27'
 gutenberg_type: Text
